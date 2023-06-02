@@ -17,7 +17,7 @@ For detailed documentation and information about the Flipnote options binary fil
 
 To get started with Flipnote Option Patcher, follow these steps:
 
-1. Download the latest release of Flipnote Option Patcher from the [releases page](https://github.com/TheRealYunix/flipnote-option-patcher/releases).
+1. Download the latest release of Flipnote Option Patcher from the [releases page](https://github.com/TheRealYunix/Flipnote-Option-Patch/releases).
 2. Ensure you have a backup of your original option.bin file.
 3. Run Flipnote Option Patcher and select your option.bin file.
 4. Customize the desired options and save the changes.
